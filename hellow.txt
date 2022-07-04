@@ -9,12 +9,12 @@ hello git！
 hello git！55555555
 hello git！
 hello git！
-hello git！
+hello git！only   hot-fix
 hello git！
 hello git！
 hello git！
 hello git！
 hello git！
 hello git！2222222222
-hello git！
-hello git！
+hello git！master text
+hello git！hot-fix  text
